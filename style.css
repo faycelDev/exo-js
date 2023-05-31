@@ -1,0 +1,32 @@
+
+body li {
+    color: black;
+}
+.badge{
+    color: black;
+    font-size: 30px;
+}
+h1{
+    border: solid 2px black;
+    
+}
+li{
+    border: solid;
+    color: purple;
+    margin-right: 50px;
+    width: 100%;
+}
+
+.strickMee{
+    text-decoration-line: underline;
+}
+
+span{
+    color: blue;
+    margin: 100%;
+    background-color: red;
+}
+
+button {
+    margin: 10px;
+}
